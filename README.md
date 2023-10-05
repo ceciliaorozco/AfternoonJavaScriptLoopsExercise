@@ -1,0 +1,2 @@
+# AfternoonJavaScriptLoopsExercise
+Afternoon JavaScript Loops Exercise
